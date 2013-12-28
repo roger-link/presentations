@@ -1,4 +1,4 @@
 presentations
 =============
 
-repo to hold any documentation used for presentations and demos
+1. Python Meetup Presentation - <a href="http://slid.es/rogerlink/deck">"WoahDude, It's Mock"</a>
